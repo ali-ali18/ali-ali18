@@ -19,7 +19,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 ## Como Entrar em Contato
 
 - 📧 Você pode entrar em contato comigo pelo e-mail: alisson.camargo024@gmail.com
-- 🔗 Visite meu perfil no LinkedIn: [Alisson (Ali) Camargo](www.linkedin.com/in/alissoncamargo)
+- 🔗 Visite meu perfil no LinkedIn: [Alisson (Ali) Camargo](https://www.linkedin.com/in/alissoncamargo)
 <!-- 
 🌐 Confira meu portfólio online: [Seu Portfólio](link para o seu portfólio) 
 -->
